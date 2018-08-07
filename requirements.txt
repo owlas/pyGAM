@@ -2,6 +2,7 @@ codecov
 cython
 future
 numpy
+pandas
 progressbar2
 pylint
 pytest
